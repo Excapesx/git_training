@@ -8,10 +8,10 @@ double subtract(double a, double b) {
     return a-b;
 }
 double multiply(double a, double b) {
-    return 0;
+    return a*b;
 }
 double divide(double a, double b) {
-    return 0;
+    return a/b;
 }
 int main() {
     double a, b;
