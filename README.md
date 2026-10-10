@@ -29,3 +29,7 @@ g++ -std=c++17 -Wall calculator.cpp -o build/calculator
 - `feature/mul-div`：乘法与除法（multiply / divide）
 
 两个分支开发完成后合并回 `master`。
+## 使用示例
+
+请输入算式（例如 3 + 5）：3 + 5
+3 + 5 = 8
