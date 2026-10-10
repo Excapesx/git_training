@@ -22,6 +22,7 @@ g++ -std=c++17 -Wall calculator.cpp -o build/calculator
 - `calculator.cpp`：计算器主程序
 - `README.md`：使用说明
 - `.gitignore`：Git 忽略规则
+- `语雀链接
 
 ## 分支开发说明
 
