@@ -33,3 +33,4 @@ g++ -std=c++17 -Wall calculator.cpp -o build/calculator
 
 请输入算式（例如 3 + 5）：3 + 5
 3 + 5 = 8
+> 本行由 Gitee 网页端编辑，用于演示 git pull 命令。
